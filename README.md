@@ -1,3 +1,3 @@
-1 . Copy the script into the console 
-2 . Press enter
-3 . GG WP
+1. Copy the script into the console (F12) 
+2. Press enter
+3. gg wp
